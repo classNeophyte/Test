@@ -1,0 +1,6 @@
+c:\users\max\documents\visual studio 2015\Projects\KnightsQuest\KnightsQuest\bin\Debug\KnightsQuest.exe.config
+c:\users\max\documents\visual studio 2015\Projects\KnightsQuest\KnightsQuest\bin\Debug\KnightsQuest.exe
+c:\users\max\documents\visual studio 2015\Projects\KnightsQuest\KnightsQuest\bin\Debug\KnightsQuest.pdb
+c:\users\max\documents\visual studio 2015\Projects\KnightsQuest\KnightsQuest\obj\Debug\KnightsQuest.csprojResolveAssemblyReference.cache
+c:\users\max\documents\visual studio 2015\Projects\KnightsQuest\KnightsQuest\obj\Debug\KnightsQuest.exe
+c:\users\max\documents\visual studio 2015\Projects\KnightsQuest\KnightsQuest\obj\Debug\KnightsQuest.pdb
